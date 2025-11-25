@@ -1,8 +1,8 @@
 <div align="center">
 
-  # Salut, je suis msm691 ! 👋
+  # Salut, je suis msm691 !
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> **Epitech Student & Junior Developper**
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> **Epitech Student & Junior Developper**
 
   ---
 
@@ -28,7 +28,7 @@
   ### 📊 Mes statistiques GitHub
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=msm691&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="msm691 github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=msm691&show_icons=true&theme=tokyonight&hide_border=true" alt="msm691 github stats" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msm691&layout=compact&theme=tokyonight&hide_border=true" alt="msm691 top languages" />
   </p>
