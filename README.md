@@ -25,12 +25,14 @@
 
   ---
 
-  ### 📊 Mes statistiques GitHub
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=msm691&show_icons=true&theme=tokyonight&hide_border=true" alt="msm691 github stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msm691&layout=compact&theme=tokyonight&hide_border=true" alt="msm691 top languages" />
-  </p>
+  ### 🏆 Mes Trophées & Activité
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=msm691&theme=monokai&no-frame=true&no-bg=true&margin-w=4" alt="msm691 trophies" />
+  </a>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msm691&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
