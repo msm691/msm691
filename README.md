@@ -20,7 +20,6 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/Anglais-C1-0052cc?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Russe-B2-d62d20?style=for-the-badge" />
   </p>
 
   ---
