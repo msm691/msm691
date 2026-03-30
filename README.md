@@ -50,10 +50,6 @@
   </p>
 
   <p align="center">
-    <img src="https://geps.dev/progress/40?dangerColor=555555&warningColor=555555&infoColor=555555" alt="C Progress" />
-  </p>
-
-  <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msm691&theme=tokyonight" alt="Stats msm691" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=msm691&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
