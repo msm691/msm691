@@ -40,12 +40,13 @@
 ### 📊 Statistiques GitHub
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=msm691&show_icons=true&theme=transparent&title_color=0052cc&text_color=ffffff&icon_color=0052cc&count_private=true" alt="Statistiques de msm691" height="150px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msm691&layout=compact&theme=transparent&title_color=0052cc&text_color=ffffff&hide=html,css" alt="Langages les plus utilisés" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=msm691&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques de msm691" height="180px" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msm691&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" height="180px" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=msm691&theme=transparent&hide_border=true&stroke=0052cc&ring=0052cc&fire=0052cc&currStreakLabel=0052cc" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=msm691&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
 
   ---
