@@ -31,7 +31,7 @@
   
   | Projet | Description | Technologies |
   |---|---|---|
-  | **[BrixHub.net](https://brixhub.net/)** | Outil d'OSINT regroupant de nombreuses api & D@t@br€achs. | `Web` `Gestion d'API` |
+  | **[BrixHub](http://kpibewmolrzsarqqtbovrzvxiynszfabdzlc4a5il7olgm2vytxy77ad.onion/)** | Outil d'OSINT regroupant de nombreuses api & D@t@br€achs (à ouvrir sur TOR). | `Web` `Gestion d'API` |
   | **[Mon Portfolio](https://locker1337.com/)** | Portfolio Personnel. | `NodeJS` `HTML` `CSS` |
   | **[Projet LUMSLF](https://github.com/msm691/lookupmyself)** | Lookup IP & Site Web afin de vérifier l'authenticité d'une ip/d'un site. | `HTML` `CSS` `JS` |
 
