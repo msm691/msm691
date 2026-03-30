@@ -37,17 +37,12 @@
 
   ---
 
-### 📊 Statistiques GitHub
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=msm691&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques de msm691" height="180px" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msm691&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" height="180px" />
-  </p>
+  ### 📊 Statistiques GitHub
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=msm691&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
+![Stats de msm691](https://github-readme-stats.vercel.app/api?username=msm691&show_icons=true&theme=tokyonight&count_private=true)
+![Langages de msm691](https://github-readme-stats.vercel.app/api/top-langs/?username=msm691&layout=compact&theme=tokyonight)
+
+![Streak de msm691](https://github-readme-streak-stats.herokuapp.com/?user=msm691&theme=tokyonight&hide_border=true)
 
   ---
 
