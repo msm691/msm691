@@ -37,16 +37,16 @@
 
   ---
 
-  ### 📊 Statistiques GitHub
+### 📊 Statistiques GitHub
 
-  <p align="center">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=msm691&show_icons=true&theme=tokyonight&count_private=true&cache_id=1" alt="Stats Globales" height="185" />
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=msm691&layout=compact&theme=tokyonight&cache_id=1" alt="Top Langages" height="185" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=msm691&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msm691&theme=tokyonight" alt="Stats msm691" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msm691&theme=tokyonight" alt="Langages msm691" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msm691&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
   ---
 
