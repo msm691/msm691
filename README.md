@@ -39,10 +39,14 @@
 
   ### 📊 Statistiques GitHub
 
-![Stats de msm691](https://github-readme-stats.vercel.app/api?username=msm691&show_icons=true&theme=tokyonight&count_private=true)
-![Langages de msm691](https://github-readme-stats.vercel.app/api/top-langs/?username=msm691&layout=compact&theme=tokyonight)
-
-![Streak de msm691](https://github-readme-streak-stats.herokuapp.com/?user=msm691&theme=tokyonight&hide_border=true)
+  <p align="center">
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=msm691&show_icons=true&theme=tokyonight&count_private=true&cache_id=1" alt="Stats Globales" height="185" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=msm691&layout=compact&theme=tokyonight&cache_id=1" alt="Top Langages" height="185" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=msm691&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
 
   ---
 
