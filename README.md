@@ -34,7 +34,7 @@
   |---|---|---|
   | **[BrixHub.net](https://brixhub.net/)** | Outil d'OSINT regroupant de nombreuses api & D@t@br€achs (à ouvrir sur TOR). | `Web` `Gestion d'API` |
   | **[Mon Portfolio](https://locker1337.com/)** | Portfolio Personnel. | `NodeJS` `HTML` `CSS` |
-  | **[Projet LUMSLF](https://github.com/msm691/lookupmyself)** | Lookup IP & Site Web afin de vérifier l'authenticité d'une ip/d'un site. | `Python` |
+  | **[TeleChat](https://github.com/msm691/C-Chatter)** | Recréer une interface de communication dans le style de Discord/Telegram en C. | `C` `JS` `HTML` |
 
   ---
 
