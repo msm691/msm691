@@ -4,7 +4,7 @@
   
   **Étudiant à Epitech & Junior Developer**
 
-  *Passionné par le code et l'investigation, je suis actuellement en train d'explorer le développement web, la programmation système et l'OSINT.*
+  *Passionné par le code et l'investigation, je suis actuellement en train d'explorer le développement web, la programmation système, l'OSINT et le CSINT.*
 
   ---
 
