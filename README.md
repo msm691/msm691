@@ -91,8 +91,11 @@ open_to:     "Collaborations & projets tech"
 
 `TypeScript` · `React` · `Vite`
 
+<a href="http://epitopia.fr">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Jouer-43b581?style=for-the-badge&logoColor=white" alt="Jouer à Epitopia" />
+</a>
 <a href="https://github.com/msm691/epitopia">
-  <img src="https://img.shields.io/badge/Voir%20le%20repo-24283b?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="Epitopia repo" />
+  <img src="https://img.shields.io/badge/Repo-24283b?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="Epitopia repo" />
 </a>
 
 </td>
@@ -124,13 +127,12 @@ Application web de prise de **rendez-vous** simple, rapide et moderne — en lig
 
 <br>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msm691&theme=tokyonight" alt="stats" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msm691&theme=tokyonight&utcOffset=2" alt="productive time" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msm691&theme=tokyonight" alt="repos per language" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msm691&theme=tokyonight" alt="most commit language" />
 
 <br>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msm691&theme=tokyonight" alt="repos per language" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msm691&theme=tokyonight" alt="most commit language" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msm691&theme=tokyonight" alt="stats" />
 
 <br><br>
 
@@ -161,8 +163,8 @@ Application web de prise de **rendez-vous** simple, rapide et moderne — en lig
 
 <img src="https://img.shields.io/badge/Français-C2-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Français C2" />
 <img src="https://img.shields.io/badge/Anglais-C1-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Anglais C1" />
-<img src="https://img.shields.io/badge/Русский-B2-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Russe B2" />
-<img src="https://img.shields.io/badge/Српски-B2-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Serbe B2" />
+<img src="https://img.shields.io/badge/Russe-B2-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Russe B2" />
+<img src="https://img.shields.io/badge/Serbe-B2-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Serbe B2" />
 
 </div>
 
